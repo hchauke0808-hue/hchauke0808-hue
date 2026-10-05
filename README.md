@@ -113,19 +113,6 @@ I like understanding **why** a model works, not just how to call it.
 
 ---
 
-## 🚀 Projects
-
-### 📊 Data Science & Machine Learning
-> Building models, analysing datasets, tuning hyperparameters and evaluating performance.
-
-### 📰 NLP & Text Classification
-> Working with multilingual news data using techniques such as **Bag-of-Words, TF-IDF and Logistic Regression**.
-
-### 🧠 Neural Networks
-> Exploring forward propagation, backpropagation, loss functions and optimisation using **PyTorch**.
-
-### 💻 Computer Science
-> Solving algorithmic and systems problems using **Java, Python and low-level programming concepts**.
 
 ---
 
