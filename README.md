@@ -136,14 +136,13 @@ I like understanding **why** a model works, not just how to call it.
 
 ---
 
-## 📡 Current Mission
+## 📡 GIT-COMMIT>
 
 ```python
 while True:
-    learn()
+    coffee()
     build()
-    analyse_data()
-    solve_problems()
+    evaluate()
     improve()
 ```
 
